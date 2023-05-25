@@ -2,7 +2,7 @@
 
 - 👀 Estou interessado em me tornar um desenvolvedor back-end
 - 🌱 Atualmente estou aprendendo PYTHON
-- 📫 Como chegar: marlloncass@gmail.com
+- 📫 Como me encontrar: marlloncass@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mca_santoss/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloncas/)
