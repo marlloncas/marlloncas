@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mca_santoss/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloncas/)
 
-![Marlon Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=marloncass&show_icons=true&theme=tokyonight)
+![Marlon Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=marlloncas&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
