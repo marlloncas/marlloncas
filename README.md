@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marlon Santos 👋
 
-- 👀 Estou interessado em me tornar um desenvolvedor back-end com foco na area de dados
+- 👀 Estou interessado em me tornar um desenvolvedor back-end com foco na área de dados
 - 🌱 Atualmente estou aprendendo PYTHON e SQL
 - 📫 Como me encontrar: marlloncass@gmail.com
 
