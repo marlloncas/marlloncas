@@ -1,8 +1,11 @@
-### Olá! Eu sou o Marlon Santos 👋
+# 👋 Olá, eu sou o Marlon Santos  
 
-- 👀 Estou interessado em me tornar um engenheiro de dados.
-- 🌱 Atualmente estou aprendendo PYTHON e SQL
-- 📫 Como me encontrar: marlloncass@gmail.com
+🎯 Tenho interesse em seguir carreira como **Engenheiro de Dados**.  
+🌱 Atualmente estou aprendendo **Python** e **SQL**, com foco em análise e engenharia de dados.  
+📊 Também possuo conhecimentos em **Power BI** e **Banco de Dados relacionais**.  
+💡 Meu objetivo é transformar dados em insights que apoiem a tomada de decisão.  
+
+📫 Como me encontrar: [marlloncass@gmail.com]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mca_santoss/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloncas/)
