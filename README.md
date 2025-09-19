@@ -23,20 +23,6 @@ Estou em busca de oportunidades que me permitam evoluir na área de dados, apren
 📫 Como me encontrar: [marlloncass@gmail.com](mailto:marlloncass@gmail.com)
 
 💻 Tecnologias que uso no meu dia a dia:  
-- Python  
-- MySQL  
-
-📚 Tecnologias que quero aprender:  
-- pandas  
-- NumPy  
-- SQLAlchemy  
-- Dask
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mca_santoss/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloncas/)
-
-## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,7 +30,7 @@ Estou em busca de oportunidades que me permitam evoluir na área de dados, apren
     
 </div><br/>
 
-## Tecnologias que quero aprender
+📚 Tecnologias que quero aprender:  
 
 <div style="display: inline_block">
   * pandas <br>
@@ -53,3 +39,7 @@ Estou em busca de oportunidades que me permitam evoluir na área de dados, apren
   * Dask<br>
 
 </div><br/>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mca_santoss/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlloncas/)
